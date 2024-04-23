@@ -10,7 +10,7 @@
 ## Requirements
 
 - Ubuntu 20.04
-- Vivado 2021.2
+- Vivado 2023.2
 
 ## Content
 
